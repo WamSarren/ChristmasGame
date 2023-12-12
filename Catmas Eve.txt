@@ -1,0 +1,60 @@
+Catmas Eve
+
+Cozy to Stressed Bar
+Do cozy task to increase coziness
+Stressful tasks happen at random and increase stress level
+If stress task not done become more and more stressed
+When stress task done do cozy tasks to increase coziness
+Feed cat to keep it happy and stop it from doing wrong
+
+Cozy Tasks:
+Fire needs stoking
+Wrapping gifts
+Music playing
+
+Stressful Events:
+Christmas tree needs watering
+Cat needs feeding
+Fire goes out
+Music stops
+Ornaments falling
+Lost scissors
+Out of tape
+
+Timed Events:
+Christmas tree needs watering
+Cat needs feeding
+Fire goes out
+Out of tape?
+
+Cat triggers when not fed:
+Music stop
+Ornaments falling
+Lost scissors?
+Unwrap gifts?
+
+Wrap enough gifts to win(End screen presents all wrapped under the tree fire going)
+If stress bar fills too much kick cat and burn down house(End screen outside house on fire with sirens)
+
+
+MVP
+
+Blender assets:
+Cat
+Cat bowl
+Christmas tree, seperate ornaments with broken meshes
+Fireplace + logs
+Table
+Unwrapped Presents
+Wrapped Presents
+Wrapping paper
+Scissors
+Tape
+Record Player, seperate record/arm for rotating and stopping
+
+Additional:
+Broom and dustpan?
+Closet with supplies?
+
+
+Coding:
